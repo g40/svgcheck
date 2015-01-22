@@ -1,0 +1,1 @@
+SVG checker - removes any non-standard tags and attributes from document
